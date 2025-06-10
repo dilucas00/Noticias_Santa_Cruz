@@ -1,0 +1,27 @@
+{
+  "name": "santa-cruz-news-scraper",
+  "version": "1.0.0",
+  "description": "Web scraper para extrair notícias do Santa Cruz usando Puppeteer e Cheerio",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js",
+    "dev": "node scraper.js",
+    "melhorado": "node scraper-melhorado.js",
+    "exemplo": "node exemplo-uso.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "nodemailer": "^7.0.3",
+    "puppeteer": "^21.5.2"
+  },
+  "keywords": [
+    "scraping",
+    "puppeteer",
+    "cheerio",
+    "santa-cruz",
+    "news"
+  ],
+  "author": "",
+  "license": "MIT"
+}
