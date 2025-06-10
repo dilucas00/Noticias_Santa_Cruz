@@ -16,8 +16,7 @@ Certifique-se de ter o Node.js instalado em sua máquina.
 
 1. Clone este repositório:
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
-   cd atividadeScrap+email
+   git clone https://github.com/dilucas00/Noticias_Santa_Cruz.git
    ```
 
 2. Instale as dependências:
